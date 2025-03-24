@@ -14,4 +14,4 @@ I’m currently an AI student <br>passionate about exploring machine learning an
 ![](https://github-profile-trophy.vercel.app/?username=iamShatha&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-![snake gif](https://github.com/iamShatha/iamShatha/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/iamShatha/iamShatha/blob/output/github-contribution-grid-snake.svg)
